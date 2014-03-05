@@ -5,5 +5,5 @@ Dockerfile for owncloud.
 
 Usage:
 
-## docker build -t owncloud .
-## docker run -d -p 80:80 owncloud
+1. docker build -t owncloud .
+2. docker run -d -p 80:80 owncloud
